@@ -1,0 +1,1318 @@
+{
+  "expenses": [
+    {
+      "id": 0,
+      "category": "Entertainment",
+      "date": "15-05-2023",
+      "amount": 49
+    },
+    {
+      "id": 1,
+      "category": "Food",
+      "date": "21-06-2023",
+      "amount": 88
+    },
+    {
+      "id": 2,
+      "category": "Others",
+      "date": "10-04-2023",
+      "amount": 79
+    },
+    {
+      "id": 3,
+      "category": "Others",
+      "date": "22-05-2023",
+      "amount": 50
+    },
+    {
+      "id": 4,
+      "category": "Transportation",
+      "date": "05-05-2023",
+      "amount": 55
+    },
+    {
+      "id": 5,
+      "category": "Medicine",
+      "date": "09-05-2023",
+      "amount": 154
+    },
+    {
+      "id": 6,
+      "category": "Utilities",
+      "date": "24-04-2023",
+      "amount": 186
+    },
+    {
+      "id": 7,
+      "category": "Transportation",
+      "date": "20-05-2023",
+      "amount": 14
+    },
+    {
+      "id": 8,
+      "category": "Others",
+      "date": "21-04-2023",
+      "amount": 5
+    },
+    {
+      "id": 9,
+      "category": "Medicine",
+      "date": "07-05-2023",
+      "amount": 3
+    },
+    {
+      "id": 10,
+      "category": "Others",
+      "date": "26-05-2023",
+      "amount": 41
+    },
+    {
+      "id": 11,
+      "category": "Others",
+      "date": "22-04-2023",
+      "amount": 131
+    },
+    {
+      "id": 12,
+      "category": "Others",
+      "date": "17-05-2023",
+      "amount": 187
+    },
+    {
+      "id": 13,
+      "category": "Transportation",
+      "date": "16-04-2023",
+      "amount": 144
+    },
+    {
+      "id": 14,
+      "category": "Medicine",
+      "date": "08-05-2023",
+      "amount": 169
+    },
+    {
+      "id": 15,
+      "category": "Utilities",
+      "date": "02-04-2023",
+      "amount": 1
+    },
+    {
+      "id": 16,
+      "category": "Food",
+      "date": "04-04-2023",
+      "amount": 152
+    },
+    {
+      "id": 17,
+      "category": "Medicine",
+      "date": "09-06-2023",
+      "amount": 158
+    },
+    {
+      "id": 18,
+      "category": "Medicine",
+      "date": "22-04-2023",
+      "amount": 155
+    },
+    {
+      "id": 19,
+      "category": "Transportation",
+      "date": "25-04-2023",
+      "amount": 176
+    },
+    {
+      "id": 20,
+      "category": "Entertainment",
+      "date": "16-05-2023",
+      "amount": 141
+    },
+    {
+      "id": 21,
+      "category": "Utilities",
+      "date": "16-04-2023",
+      "amount": 74
+    },
+    {
+      "id": 22,
+      "category": "Transportation",
+      "date": "06-04-2023",
+      "amount": 136
+    },
+    {
+      "id": 23,
+      "category": "Utilities",
+      "date": "07-04-2023",
+      "amount": 146
+    },
+    {
+      "id": 24,
+      "category": "Others",
+      "date": "28-06-2023",
+      "amount": 142
+    },
+    {
+      "id": 25,
+      "category": "Others",
+      "date": "21-04-2023",
+      "amount": 48
+    },
+    {
+      "id": 26,
+      "category": "Others",
+      "date": "08-05-2023",
+      "amount": 73
+    },
+    {
+      "id": 27,
+      "category": "Transportation",
+      "date": "22-06-2023",
+      "amount": 20
+    },
+    {
+      "id": 28,
+      "category": "Food",
+      "date": "06-05-2023",
+      "amount": 83
+    },
+    {
+      "id": 29,
+      "category": "Food",
+      "date": "07-04-2023",
+      "amount": 29
+    },
+    {
+      "id": 30,
+      "category": "Utilities",
+      "date": "06-04-2023",
+      "amount": 165
+    },
+    {
+      "id": 31,
+      "category": "Food",
+      "date": "05-05-2023",
+      "amount": 158
+    },
+    {
+      "id": 32,
+      "category": "Transportation",
+      "date": "26-06-2023",
+      "amount": 153
+    },
+    {
+      "id": 33,
+      "category": "Transportation",
+      "date": "20-04-2023",
+      "amount": 96
+    },
+    {
+      "id": 34,
+      "category": "Food",
+      "date": "04-06-2023",
+      "amount": 99
+    },
+    {
+      "id": 35,
+      "category": "Medicine",
+      "date": "19-04-2023",
+      "amount": 18
+    },
+    {
+      "id": 36,
+      "category": "Entertainment",
+      "date": "28-04-2023",
+      "amount": 71
+    },
+    {
+      "id": 37,
+      "category": "Utilities",
+      "date": "01-05-2023",
+      "amount": 141
+    },
+    {
+      "id": 38,
+      "category": "Transportation",
+      "date": "04-04-2023",
+      "amount": 88
+    },
+    {
+      "id": 39,
+      "category": "Entertainment",
+      "date": "12-04-2023",
+      "amount": 81
+    },
+    {
+      "id": 40,
+      "category": "Entertainment",
+      "date": "21-04-2023",
+      "amount": 11
+    },
+    {
+      "id": 41,
+      "category": "Utilities",
+      "date": "30-05-2023",
+      "amount": 102
+    },
+    {
+      "id": 42,
+      "category": "Transportation",
+      "date": "07-05-2023",
+      "amount": 3
+    },
+    {
+      "id": 43,
+      "category": "Transportation",
+      "date": "27-05-2023",
+      "amount": 90
+    },
+    {
+      "id": 44,
+      "category": "Entertainment",
+      "date": "02-06-2023",
+      "amount": 45
+    },
+    {
+      "id": 45,
+      "category": "Transportation",
+      "date": "15-04-2023",
+      "amount": 72
+    },
+    {
+      "id": 46,
+      "category": "Food",
+      "date": "29-04-2023",
+      "amount": 149
+    },
+    {
+      "id": 47,
+      "category": "Others",
+      "date": "11-06-2023",
+      "amount": 25
+    },
+    {
+      "id": 48,
+      "category": "Entertainment",
+      "date": "19-05-2023",
+      "amount": 177
+    },
+    {
+      "id": 49,
+      "category": "Others",
+      "date": "10-06-2023",
+      "amount": 2
+    },
+    {
+      "id": 50,
+      "category": "Transportation",
+      "date": "19-05-2023",
+      "amount": 60
+    },
+    {
+      "id": 51,
+      "category": "Food",
+      "date": "22-04-2023",
+      "amount": 74
+    },
+    {
+      "id": 52,
+      "category": "Others",
+      "date": "26-04-2023",
+      "amount": 95
+    },
+    {
+      "id": 53,
+      "category": "Medicine",
+      "date": "30-04-2023",
+      "amount": 93
+    },
+    {
+      "id": 54,
+      "category": "Utilities",
+      "date": "20-04-2023",
+      "amount": 144
+    },
+    {
+      "id": 55,
+      "category": "Food",
+      "date": "06-06-2023",
+      "amount": 23
+    },
+    {
+      "id": 56,
+      "category": "Transportation",
+      "date": "01-06-2023",
+      "amount": 44
+    },
+    {
+      "id": 57,
+      "category": "Medicine",
+      "date": "02-06-2023",
+      "amount": 38
+    },
+    {
+      "id": 58,
+      "category": "Others",
+      "date": "27-06-2023",
+      "amount": 92
+    },
+    {
+      "id": 59,
+      "category": "Others",
+      "date": "02-06-2023",
+      "amount": 6
+    },
+    {
+      "id": 60,
+      "category": "Others",
+      "date": "01-04-2023",
+      "amount": 168
+    },
+    {
+      "id": 61,
+      "category": "Medicine",
+      "date": "09-05-2023",
+      "amount": 115
+    },
+    {
+      "id": 62,
+      "category": "Food",
+      "date": "27-06-2023",
+      "amount": 78
+    },
+    {
+      "id": 63,
+      "category": "Utilities",
+      "date": "18-05-2023",
+      "amount": 128
+    },
+    {
+      "id": 64,
+      "category": "Utilities",
+      "date": "20-06-2023",
+      "amount": 157
+    },
+    {
+      "id": 65,
+      "category": "Transportation",
+      "date": "04-04-2023",
+      "amount": 196
+    },
+    {
+      "id": 66,
+      "category": "Entertainment",
+      "date": "03-04-2023",
+      "amount": 44
+    },
+    {
+      "id": 67,
+      "category": "Transportation",
+      "date": "10-04-2023",
+      "amount": 58
+    },
+    {
+      "id": 68,
+      "category": "Utilities",
+      "date": "10-05-2023",
+      "amount": 82
+    },
+    {
+      "id": 69,
+      "category": "Utilities",
+      "date": "12-05-2023",
+      "amount": 98
+    },
+    {
+      "id": 70,
+      "category": "Entertainment",
+      "date": "05-04-2023",
+      "amount": 189
+    },
+    {
+      "id": 71,
+      "category": "Entertainment",
+      "date": "05-06-2023",
+      "amount": 43
+    },
+    {
+      "id": 72,
+      "category": "Food",
+      "date": "05-04-2023",
+      "amount": 133
+    },
+    {
+      "id": 73,
+      "category": "Medicine",
+      "date": "04-05-2023",
+      "amount": 111
+    },
+    {
+      "id": 74,
+      "category": "Utilities",
+      "date": "17-04-2023",
+      "amount": 125
+    },
+    {
+      "id": 75,
+      "category": "Medicine",
+      "date": "24-04-2023",
+      "amount": 50
+    },
+    {
+      "id": 76,
+      "category": "Food",
+      "date": "29-05-2023",
+      "amount": 2
+    },
+    {
+      "id": 77,
+      "category": "Transportation",
+      "date": "06-05-2023",
+      "amount": 149
+    },
+    {
+      "id": 78,
+      "category": "Medicine",
+      "date": "22-06-2023",
+      "amount": 4
+    },
+    {
+      "id": 79,
+      "category": "Transportation",
+      "date": "14-04-2023",
+      "amount": 145
+    },
+    {
+      "id": 80,
+      "category": "Food",
+      "date": "27-06-2023",
+      "amount": 14
+    },
+    {
+      "id": 81,
+      "category": "Others",
+      "date": "16-04-2023",
+      "amount": 116
+    },
+    {
+      "id": 82,
+      "category": "Entertainment",
+      "date": "25-04-2023",
+      "amount": 20
+    },
+    {
+      "id": 83,
+      "category": "Food",
+      "date": "28-05-2023",
+      "amount": 111
+    },
+    {
+      "id": 84,
+      "category": "Others",
+      "date": "12-04-2023",
+      "amount": 18
+    },
+    {
+      "id": 85,
+      "category": "Utilities",
+      "date": "27-05-2023",
+      "amount": 180
+    },
+    {
+      "id": 86,
+      "category": "Transportation",
+      "date": "30-05-2023",
+      "amount": 158
+    },
+    {
+      "id": 87,
+      "category": "Others",
+      "date": "08-04-2023",
+      "amount": 109
+    },
+    {
+      "id": 88,
+      "category": "Food",
+      "date": "25-06-2023",
+      "amount": 142
+    },
+    {
+      "id": 89,
+      "category": "Medicine",
+      "date": "31-05-2023",
+      "amount": 187
+    },
+    {
+      "id": 90,
+      "category": "Food",
+      "date": "06-06-2023",
+      "amount": 155
+    },
+    {
+      "id": 91,
+      "category": "Food",
+      "date": "13-06-2023",
+      "amount": 80
+    },
+    {
+      "id": 92,
+      "category": "Entertainment",
+      "date": "07-06-2023",
+      "amount": 1
+    },
+    {
+      "id": 93,
+      "category": "Others",
+      "date": "06-04-2023",
+      "amount": 63
+    },
+    {
+      "id": 94,
+      "category": "Transportation",
+      "date": "10-04-2023",
+      "amount": 118
+    },
+    {
+      "id": 95,
+      "category": "Others",
+      "date": "18-06-2023",
+      "amount": 171
+    },
+    {
+      "id": 96,
+      "category": "Others",
+      "date": "10-05-2023",
+      "amount": 96
+    },
+    {
+      "id": 97,
+      "category": "Medicine",
+      "date": "12-04-2023",
+      "amount": 36
+    },
+    {
+      "id": 98,
+      "category": "Medicine",
+      "date": "29-06-2023",
+      "amount": 161
+    },
+    {
+      "id": 99,
+      "category": "Transportation",
+      "date": "28-04-2023",
+      "amount": 118
+    },
+    {
+      "id": 100,
+      "category": "Medicine",
+      "date": "29-04-2023",
+      "amount": 140
+    },
+    {
+      "id": 101,
+      "category": "Others",
+      "date": "24-06-2023",
+      "amount": 125
+    },
+    {
+      "id": 102,
+      "category": "Transportation",
+      "date": "05-06-2023",
+      "amount": 190
+    },
+    {
+      "id": 103,
+      "category": "Medicine",
+      "date": "03-05-2023",
+      "amount": 48
+    },
+    {
+      "id": 104,
+      "category": "Food",
+      "date": "18-04-2023",
+      "amount": 138
+    },
+    {
+      "id": 105,
+      "category": "Transportation",
+      "date": "06-05-2023",
+      "amount": 175
+    },
+    {
+      "id": 106,
+      "category": "Food",
+      "date": "10-04-2023",
+      "amount": 90
+    },
+    {
+      "id": 107,
+      "category": "Food",
+      "date": "17-04-2023",
+      "amount": 115
+    },
+    {
+      "id": 108,
+      "category": "Entertainment",
+      "date": "02-04-2023",
+      "amount": 24
+    },
+    {
+      "id": 109,
+      "category": "Others",
+      "date": "08-04-2023",
+      "amount": 97
+    },
+    {
+      "id": 110,
+      "category": "Food",
+      "date": "26-05-2023",
+      "amount": 98
+    },
+    {
+      "id": 111,
+      "category": "Entertainment",
+      "date": "22-05-2023",
+      "amount": 97
+    },
+    {
+      "id": 112,
+      "category": "Medicine",
+      "date": "14-05-2023",
+      "amount": 184
+    },
+    {
+      "id": 113,
+      "category": "Others",
+      "date": "31-05-2023",
+      "amount": 28
+    },
+    {
+      "id": 114,
+      "category": "Transportation",
+      "date": "31-05-2023",
+      "amount": 64
+    },
+    {
+      "id": 115,
+      "category": "Entertainment",
+      "date": "17-04-2023",
+      "amount": 178
+    },
+    {
+      "id": 116,
+      "category": "Utilities",
+      "date": "20-06-2023",
+      "amount": 43
+    },
+    {
+      "id": 117,
+      "category": "Food",
+      "date": "19-06-2023",
+      "amount": 180
+    },
+    {
+      "id": 118,
+      "category": "Medicine",
+      "date": "20-04-2023",
+      "amount": 36
+    },
+    {
+      "id": 119,
+      "category": "Medicine",
+      "date": "23-05-2023",
+      "amount": 91
+    },
+    {
+      "id": 120,
+      "category": "Food",
+      "date": "21-06-2023",
+      "amount": 182
+    },
+    {
+      "id": 121,
+      "category": "Utilities",
+      "date": "22-06-2023",
+      "amount": 164
+    },
+    {
+      "id": 122,
+      "category": "Transportation",
+      "date": "19-04-2023",
+      "amount": 86
+    },
+    {
+      "id": 123,
+      "category": "Utilities",
+      "date": "15-05-2023",
+      "amount": 85
+    },
+    {
+      "id": 124,
+      "category": "Food",
+      "date": "10-04-2023",
+      "amount": 65
+    },
+    {
+      "id": 125,
+      "category": "Others",
+      "date": "05-04-2023",
+      "amount": 193
+    },
+    {
+      "id": 126,
+      "category": "Medicine",
+      "date": "18-05-2023",
+      "amount": 34
+    },
+    {
+      "id": 127,
+      "category": "Transportation",
+      "date": "19-05-2023",
+      "amount": 118
+    },
+    {
+      "id": 128,
+      "category": "Entertainment",
+      "date": "05-04-2023",
+      "amount": 104
+    },
+    {
+      "id": 129,
+      "category": "Others",
+      "date": "29-05-2023",
+      "amount": 97
+    },
+    {
+      "id": 130,
+      "category": "Others",
+      "date": "12-05-2023",
+      "amount": 184
+    },
+    {
+      "id": 131,
+      "category": "Others",
+      "date": "13-05-2023",
+      "amount": 133
+    },
+    {
+      "id": 132,
+      "category": "Utilities",
+      "date": "07-06-2023",
+      "amount": 76
+    },
+    {
+      "id": 133,
+      "category": "Medicine",
+      "date": "15-05-2023",
+      "amount": 121
+    },
+    {
+      "id": 134,
+      "category": "Entertainment",
+      "date": "31-05-2023",
+      "amount": 27
+    },
+    {
+      "id": 135,
+      "category": "Food",
+      "date": "04-05-2023",
+      "amount": 66
+    },
+    {
+      "id": 136,
+      "category": "Entertainment",
+      "date": "05-04-2023",
+      "amount": 54
+    },
+    {
+      "id": 137,
+      "category": "Food",
+      "date": "08-04-2023",
+      "amount": 197
+    },
+    {
+      "id": 138,
+      "category": "Utilities",
+      "date": "23-06-2023",
+      "amount": 132
+    },
+    {
+      "id": 139,
+      "category": "Others",
+      "date": "20-04-2023",
+      "amount": 152
+    },
+    {
+      "id": 140,
+      "category": "Food",
+      "date": "14-04-2023",
+      "amount": 188
+    },
+    {
+      "id": 141,
+      "category": "Food",
+      "date": "02-05-2023",
+      "amount": 156
+    },
+    {
+      "id": 142,
+      "category": "Medicine",
+      "date": "08-06-2023",
+      "amount": 64
+    },
+    {
+      "id": 143,
+      "category": "Others",
+      "date": "12-06-2023",
+      "amount": 40
+    },
+    {
+      "id": 144,
+      "category": "Food",
+      "date": "12-04-2023",
+      "amount": 116
+    },
+    {
+      "id": 145,
+      "category": "Food",
+      "date": "03-06-2023",
+      "amount": 151
+    },
+    {
+      "id": 146,
+      "category": "Medicine",
+      "date": "05-05-2023",
+      "amount": 73
+    },
+    {
+      "id": 147,
+      "category": "Food",
+      "date": "16-06-2023",
+      "amount": 122
+    },
+    {
+      "id": 148,
+      "category": "Utilities",
+      "date": "08-05-2023",
+      "amount": 62
+    },
+    {
+      "id": 149,
+      "category": "Food",
+      "date": "23-05-2023",
+      "amount": 84
+    },
+    {
+      "id": 150,
+      "category": "Medicine",
+      "date": "22-06-2023",
+      "amount": 151
+    },
+    {
+      "id": 151,
+      "category": "Medicine",
+      "date": "02-05-2023",
+      "amount": 31
+    },
+    {
+      "id": 152,
+      "category": "Food",
+      "date": "29-05-2023",
+      "amount": 127
+    },
+    {
+      "id": 153,
+      "category": "Others",
+      "date": "08-05-2023",
+      "amount": 160
+    },
+    {
+      "id": 154,
+      "category": "Medicine",
+      "date": "13-04-2023",
+      "amount": 74
+    },
+    {
+      "id": 155,
+      "category": "Others",
+      "date": "25-04-2023",
+      "amount": 28
+    },
+    {
+      "id": 156,
+      "category": "Entertainment",
+      "date": "23-04-2023",
+      "amount": 181
+    },
+    {
+      "id": 157,
+      "category": "Transportation",
+      "date": "01-04-2023",
+      "amount": 27
+    },
+    {
+      "id": 158,
+      "category": "Medicine",
+      "date": "15-05-2023",
+      "amount": 185
+    },
+    {
+      "id": 159,
+      "category": "Others",
+      "date": "24-05-2023",
+      "amount": 174
+    },
+    {
+      "id": 160,
+      "category": "Entertainment",
+      "date": "18-05-2023",
+      "amount": 121
+    },
+    {
+      "id": 161,
+      "category": "Others",
+      "date": "25-04-2023",
+      "amount": 93
+    },
+    {
+      "id": 162,
+      "category": "Transportation",
+      "date": "08-06-2023",
+      "amount": 119
+    },
+    {
+      "id": 163,
+      "category": "Utilities",
+      "date": "14-05-2023",
+      "amount": 18
+    },
+    {
+      "id": 164,
+      "category": "Transportation",
+      "date": "03-04-2023",
+      "amount": 161
+    },
+    {
+      "id": 165,
+      "category": "Entertainment",
+      "date": "15-05-2023",
+      "amount": 112
+    },
+    {
+      "id": 166,
+      "category": "Utilities",
+      "date": "15-06-2023",
+      "amount": 8
+    },
+    {
+      "id": 167,
+      "category": "Entertainment",
+      "date": "06-05-2023",
+      "amount": 11
+    },
+    {
+      "id": 168,
+      "category": "Food",
+      "date": "19-05-2023",
+      "amount": 45
+    },
+    {
+      "id": 169,
+      "category": "Utilities",
+      "date": "03-05-2023",
+      "amount": 14
+    },
+    {
+      "id": 170,
+      "category": "Food",
+      "date": "17-06-2023",
+      "amount": 37
+    },
+    {
+      "id": 171,
+      "category": "Food",
+      "date": "25-05-2023",
+      "amount": 52
+    },
+    {
+      "id": 172,
+      "category": "Food",
+      "date": "23-05-2023",
+      "amount": 176
+    },
+    {
+      "id": 173,
+      "category": "Others",
+      "date": "28-04-2023",
+      "amount": 43
+    },
+    {
+      "id": 174,
+      "category": "Transportation",
+      "date": "02-05-2023",
+      "amount": 27
+    },
+    {
+      "id": 175,
+      "category": "Utilities",
+      "date": "04-06-2023",
+      "amount": 131
+    },
+    {
+      "id": 176,
+      "category": "Others",
+      "date": "08-05-2023",
+      "amount": 66
+    },
+    {
+      "id": 177,
+      "category": "Utilities",
+      "date": "27-04-2023",
+      "amount": 142
+    },
+    {
+      "id": 178,
+      "category": "Others",
+      "date": "11-04-2023",
+      "amount": 192
+    },
+    {
+      "id": 179,
+      "category": "Medicine",
+      "date": "24-04-2023",
+      "amount": 165
+    },
+    {
+      "id": 180,
+      "category": "Others",
+      "date": "13-05-2023",
+      "amount": 157
+    },
+    {
+      "id": 181,
+      "category": "Food",
+      "date": "18-06-2023",
+      "amount": 172
+    },
+    {
+      "id": 182,
+      "category": "Food",
+      "date": "13-04-2023",
+      "amount": 123
+    },
+    {
+      "id": 183,
+      "category": "Transportation",
+      "date": "12-05-2023",
+      "amount": 111
+    },
+    {
+      "id": 184,
+      "category": "Food",
+      "date": "15-05-2023",
+      "amount": 152
+    },
+    {
+      "id": 185,
+      "category": "Utilities",
+      "date": "19-05-2023",
+      "amount": 114
+    },
+    {
+      "id": 186,
+      "category": "Medicine",
+      "date": "15-05-2023",
+      "amount": 119
+    },
+    {
+      "id": 187,
+      "category": "Entertainment",
+      "date": "30-04-2023",
+      "amount": 12
+    },
+    {
+      "id": 188,
+      "category": "Food",
+      "date": "08-06-2023",
+      "amount": 81
+    },
+    {
+      "id": 189,
+      "category": "Medicine",
+      "date": "15-05-2023",
+      "amount": 116
+    },
+    {
+      "id": 190,
+      "category": "Transportation",
+      "date": "24-05-2023",
+      "amount": 72
+    },
+    {
+      "id": 191,
+      "category": "Others",
+      "date": "02-04-2023",
+      "amount": 17
+    },
+    {
+      "id": 192,
+      "category": "Entertainment",
+      "date": "11-04-2023",
+      "amount": 105
+    },
+    {
+      "id": 193,
+      "category": "Food",
+      "date": "05-06-2023",
+      "amount": 109
+    },
+    {
+      "id": 194,
+      "category": "Entertainment",
+      "date": "05-04-2023",
+      "amount": 136
+    },
+    {
+      "id": 195,
+      "category": "Food",
+      "date": "03-06-2023",
+      "amount": 7
+    },
+    {
+      "id": 196,
+      "category": "Others",
+      "date": "05-05-2023",
+      "amount": 187
+    },
+    {
+      "id": 197,
+      "category": "Food",
+      "date": "19-04-2023",
+      "amount": 36
+    },
+    {
+      "id": 198,
+      "category": "Food",
+      "date": "10-05-2023",
+      "amount": 167
+    },
+    {
+      "id": 199,
+      "category": "Medicine",
+      "date": "23-04-2023",
+      "amount": 99
+    },
+    {
+      "id": 200,
+      "category": "Utilities",
+      "date": "12-04-2023",
+      "amount": 48
+    },
+    {
+      "id": 201,
+      "category": "Utilities",
+      "date": "19-04-2023",
+      "amount": 162
+    },
+    {
+      "id": 202,
+      "category": "Transportation",
+      "date": "19-06-2023",
+      "amount": 125
+    },
+    {
+      "id": 203,
+      "category": "Utilities",
+      "date": "06-06-2023",
+      "amount": 80
+    },
+    {
+      "id": 204,
+      "category": "Others",
+      "date": "01-04-2023",
+      "amount": 62
+    },
+    {
+      "id": 205,
+      "category": "Transportation",
+      "date": "23-06-2023",
+      "amount": 78
+    },
+    {
+      "id": 206,
+      "category": "Transportation",
+      "date": "21-06-2023",
+      "amount": 60
+    },
+    {
+      "id": 207,
+      "category": "Transportation",
+      "date": "21-06-2023",
+      "amount": 13
+    },
+    {
+      "id": 208,
+      "category": "Medicine",
+      "date": "22-04-2023",
+      "amount": 130
+    },
+    {
+      "id": 209,
+      "category": "Utilities",
+      "date": "10-04-2023",
+      "amount": 145
+    },
+    {
+      "id": 210,
+      "category": "Entertainment",
+      "date": "25-05-2023",
+      "amount": 8
+    },
+    {
+      "id": 211,
+      "category": "Food",
+      "date": "10-06-2023",
+      "amount": 123
+    },
+    {
+      "id": 212,
+      "category": "Utilities",
+      "date": "14-04-2023",
+      "amount": 124
+    },
+    {
+      "id": 213,
+      "category": "Others",
+      "date": "05-04-2023",
+      "amount": 134
+    },
+    {
+      "id": 214,
+      "category": "Utilities",
+      "date": "30-05-2023",
+      "amount": 192
+    },
+    {
+      "id": 215,
+      "category": "Entertainment",
+      "date": "27-06-2023",
+      "amount": 186
+    },
+    {
+      "id": 216,
+      "category": "Transportation",
+      "date": "19-06-2023",
+      "amount": 90
+    },
+    {
+      "id": 217,
+      "category": "Utilities",
+      "date": "24-06-2023",
+      "amount": 22
+    },
+    {
+      "id": 218,
+      "category": "Utilities",
+      "date": "15-04-2023",
+      "amount": 69
+    }
+  ]
+}
